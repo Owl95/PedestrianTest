@@ -61,7 +61,7 @@
     <Compile Include="Assets\Scripts\DogStaminaBehavior.cs" />
     <Compile Include="Assets\Scripts\PedestrianBehavior.cs" />
     <Compile Include="Assets\Scripts\DogBehavior.cs" />
-    <Compile Include="Assets\PesdestrainSpawner.cs" />
+    <Compile Include="Assets\Scripts\PesdestrainSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
